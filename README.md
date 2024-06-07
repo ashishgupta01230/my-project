@@ -1,5 +1,5 @@
 # my-project
+
 this is my first repository
 <br>
-Author - Ashish
-
+Author - Ashish (gupta)
